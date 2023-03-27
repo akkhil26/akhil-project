@@ -1,5 +1,4 @@
-// functions
-// FACTORIAL CODE
+
 #include<stdio.h>
 int factorial(int);
 int main()
@@ -20,4 +19,4 @@ int factorial(int  a)
         prod=prod*i;
     return prod;
 }
-//
+
